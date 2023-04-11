@@ -1,3 +1,3 @@
 # Responsive-website
-A responsive website created to practice CSS and its tools.
-Basic website about games
+A responsive website about games, created to practice CSS and its functionalities.
+
